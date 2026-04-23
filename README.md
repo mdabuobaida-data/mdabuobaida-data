@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm  Md.Abuobaida 👋
 
-<!--
-**mdabuobaida-data/mdabuobaida-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Passionate about turning data into insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- SQL (Joins, Aggregations, Subqueries)
+- Excel (Pivot Tables, VLOOKUP,XLOOKUP)
+- Power BI (Dashboards & KPIs)
+- Python (Pandas,Numpy)
+
+---
+
+## 📊 Projects
+🔹 Sales Data Analysis (SQL + Power BI)  
+🔹 Customer Insights Dashboard  
+🔹 Python Data Analysis (In Progress)  
+
+---
+
+## 📈 What I Do
+I analyze data to uncover trends, build dashboards, and provide insights that support business decisions.
+
+---
+
+## 🛠 Tools & Technologies
+SQL | Excel | Power BI | Python
+
+---
+
+## 📫 Contact Me
+- Email: mdabuobaida1196@gmail.com
+  --
+
+---
+
+⭐ Currently building strong data analytics projects and actively looking for opportunities.
